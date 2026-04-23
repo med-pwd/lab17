@@ -1,22 +1,20 @@
-# 🔓 UnCrackable-Level3 - Solution
+ UnCrackable-Level3 - Solution
 
-[![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://developer.android.com)
-[![Tools](https://img.shields.io/badge/tools-Ghidra%20%7C%20apktool%20%7C%20jadx-blue.svg)](https://ghidra-sre.org/)
-[![License](https://img.shields.io/badge/license-Educational%20Use-orange.svg)](LICENSE)
 
-## 📋 Table of Contents
-- [Challenge Description](#-challenge-description)
-- [Protections Bypassed](#-protections-bypassed)
-- [Tools Used](#-tools-used)
-- [Solution Walkthrough](#-solution-walkthrough)
-- [Files Structure](#-files-structure)
-- [Quick Test](#-quick-test)
-- [Key Learnings](#-key-learnings)
-- [References](#-references)
 
----
+Table of Contents
+Challenge Description
+Protections Bypassed
+Tools Used
+Solution Walkthrough
+Files Structure
+Quick Test
+Key Learnings
+References
 
-## 🎯 Challenge Description
+
+
+Challenge Description
 
 This repository contains a complete solution for the **OWASP MSTG Crackme Level 3**. 
 
@@ -30,7 +28,7 @@ The application is an Android crackme that:
 
 ---
 
-## 🛡️ Protections Bypassed
+Protections Bypassed
 
 | Protection | Implementation | Bypass Method |
 |------------|----------------|----------------|
@@ -43,7 +41,7 @@ The application is an Android crackme that:
 
 ---
 
-## 🔧 Tools Used
+ Tools Used
 
 | Tool | Purpose | Version |
 |------|---------|---------|
